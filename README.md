@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rafael, estudande de S.I e entusiasta por tecnologia!
 
 - 🌱 No momento apenas estudando
-- 📫 Contato: farae93@gmail.com
+- 📫 Contato: linkedin.com/in/rafael-reis-504a021b4/
 - ⚡ Com certeza um dos perfis já criados...
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
