@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rafael, estudande de TI e estusiasta por tecnologia!
+### Olá! Eu sou o Rafael, estudande de S.I e estusiasta por tecnologia!
 
 - 🌱 No momento apenas estudando
 - 📫 Contato: farae93@gmail.com
@@ -30,9 +30,9 @@
       <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
       <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
-
-  ![Snake animation](https://github.com/rreiscenteno/blob/output/github-contribution-grid-snake.svg)
-
+<div>
+  ![Snake animation](https://github.com/rreiscenteno/rreiscenteno/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 
 
