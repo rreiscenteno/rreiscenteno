@@ -1,4 +1,4 @@
-### Olá! Eu sou o Rafael, estudande de S.I e estusiasta por tecnologia!
+### Olá! Eu sou o Rafael, estudande de S.I e entusiasta por tecnologia!
 
 - 🌱 No momento apenas estudando
 - 📫 Contato: farae93@gmail.com
