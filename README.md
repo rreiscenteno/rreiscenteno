@@ -30,9 +30,8 @@
       <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
       <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
 </div>
-<div>
+
   ![Snake animation](https://github.com/rreiscenteno/rreiscenteno/blob/output/github-contribution-grid-snake.svg)
-</div>
 
 
 
